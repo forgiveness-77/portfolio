@@ -8,7 +8,7 @@ const About = () => {
     >
       <div className="relative w-full md:w-1/2 flex justify-center">
         <img
-          src="/images/about.png"
+          src="/images/about.jpg"
           alt="About"
           className="max-w-48 md:max-w-72 h-auto rounded-lg"
         />
